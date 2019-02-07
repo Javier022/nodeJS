@@ -6,6 +6,6 @@
 
     -- Dependencias de la app
     
-    ´´´
+    ```
     npm install    
-    ´´´
+    ```
