@@ -4,5 +4,9 @@
     Esta es una aplicacion para generar archivos de tablas de
     multiplicar.
 
-
-    npm install -- Dependencias de la app
+    -- Dependencias de la app
+    
+    ´´´
+    npm install    
+    
+    ´´´
